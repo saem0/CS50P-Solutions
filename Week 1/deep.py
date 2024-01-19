@@ -5,3 +5,4 @@ if message == "42" or message == "forty-two" or message == "forty two":
 else:
     print("No")
 
+
